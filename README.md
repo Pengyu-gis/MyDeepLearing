@@ -1,2 +1,2 @@
 # DeepLearning Tutorial Code
-From huggingface or kaggle.
+Just For Fun and Learning.
