@@ -81,22 +81,27 @@ optimizer.step()
 | Swimming-pool       | 87    | 441    | 0.751     | 0.388  | 0.467 | 0.166    |
 
 
-## Experiment results
+## Experiment Results
 
-![](Images/val_batch0_labels.jpg)
-- **Labels 1**
+Labels and Predictions
 
-![](Images/val_batch0_pred.jpg)
-- **Prediction 1**
+#### Example 1
+- **Labels 1**  
+  <img src="../Images/val_batch0_labels.jpg" alt="Labels 1" width="700"/>
 
-![](Images/val_batch1_labels.jpg)
-- **Labels 2**
+- **Prediction 1**  
+  <img src="../Images/val_batch0_pred.jpg" alt="Prediction 1" width="700"/>
 
-![](Images/val_batch1_pred.jpg)
-- **Prediction 2**
+#### Example 2
+- **Labels 2**  
+  <img src="../Images/val_batch1_labels.jpg" alt="Labels 2" width="700"/>
 
-![](Images/val_batch2_labels.jpg)
-- **Labels 3**
+- **Prediction 2**  
+  <img src="../Images/val_batch1_pred.jpg" alt="Prediction 2" width="700"/>
 
-![](Images/val_batch2_pred.jpg)
-- **Prediction 3**
+#### Example 3
+- **Labels 3**  
+  <img src="../Images/val_batch2_labels.jpg" alt="Labels 3" width="700"/>
+
+- **Prediction 3**  
+  <img src="../Images/val_batch2_pred.jpg" alt="Prediction 3" width="700"/>
